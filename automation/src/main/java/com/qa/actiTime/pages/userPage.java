@@ -6,5 +6,12 @@ import org.openqa.selenium.support.FindBy;
 import com.qa.actiTime.TestBase.TestBase;
 
 public class userPage extends TestBase{
+	//creating contructor
 	
+		//@BeforeMethod
+		
+		//@test
+		
+		//@AfterMethod
+
 }
